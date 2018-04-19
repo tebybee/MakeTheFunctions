@@ -67,6 +67,6 @@ void printVector(vector<int> board)
 {
     for(int i = 0; i < board.size(); i++)
     {
-        cout<<board[i];
+        cout<<board[i]<< " ";
     }
 }
